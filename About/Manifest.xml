@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>Husko.RC.LombaxTech</identifier>
+  <version>1.0.0.0a</version>
+  <targetVersions>
+    <li>1.2.0</li>
+  </targetVersions>
+  <dependencies>
+  </dependencies>
+  <incompatibleWith>
+  </incompatibleWith>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+  </loadAfter>
+  <manifestUri>raw.Manifest.xml</manifestUri>
+  <downloadUri>releases/latest</downloadUri>
+</Manifest>
