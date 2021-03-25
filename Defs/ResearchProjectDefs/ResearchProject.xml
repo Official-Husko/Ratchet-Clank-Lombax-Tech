@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ResearchProjectDef>
+        <defName>RC_Armory</defName>
+        <label>Research Lombax Tech MK.I</label>
+        <description>Research the Technology to produce Lombax Tech MK.I.</description>
+        <baseCost>2000</baseCost>
+        <prerequisites>
+        </prerequisites>
+        <techLevel>Industrial</techLevel>
+        <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+        <researchViewX>9.00</researchViewX>
+        <researchViewY>4.60</researchViewY>
+    </ResearchProjectDef>
+</Defs>

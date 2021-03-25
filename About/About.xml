@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Ratchet and Clank: Lombax Tech</name>
+	<author>Husko</author>
+	<url></url>
+	<packageId>Husko.RC.LombaxTech</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<description> ! This Pack is WIP !
+
+	Thank you for downloading my mod and enjoy the OmniWrenches from Ratchet & Clank and all other assets.
+
+	Currently Inlcudes: 
+
+	All OmniWrenches
+	</description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>CETeam.CombatExtended</li>
+	</loadAfter>
+</ModMetaData>
