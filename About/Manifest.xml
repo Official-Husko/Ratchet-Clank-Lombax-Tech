@@ -13,6 +13,6 @@
   </loadBefore>
   <loadAfter>
   </loadAfter>
-  <manifestUri>raw.Manifest.xml</manifestUri>
-  <downloadUri>releases/latest</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/Official-Husko/Ratchet-Clank-Lombax-Tech/Stable/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Official-Husko/Ratchet-Clank-Lombax-Tech/releases</downloadUri>
 </Manifest>
