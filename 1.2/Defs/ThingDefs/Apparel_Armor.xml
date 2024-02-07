@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- ==================================== O2 Mask Prototype =====================================-->
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>Apparel_RC_O2_Mask_Prototype</defName>
+    <label>O2 Mask Prototype</label>
+    <description>Prototype of the O2 Mask</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/Armor/O2_Mask_Prototype</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+		<statBases>
+			<WorkToMake>5000</WorkToMake>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Mass>2</Mass>
+			<ArmorRating_Blunt>0.10</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.30</ArmorRating_Sharp>
+		<Insulation_Heat>5</Insulation_Heat>
+		<Insulation_Cold>5</Insulation_Cold>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>-0.02</MoveSpeed>
+			<PsychicSensitivity>-0.10</PsychicSensitivity>
+		</equippedStatOffsets>
+    <costList>
+			<Cloth>30</Cloth>
+			<Steel>60</Steel>
+		</costList>
+		<apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Armor/O2_Mask_Prototype</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags Inherit="False">
+        <li>Lombax Clothing</li>
+      </tags>
+	  <useWornGraphicMask>true</useWornGraphicMask>	  
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+</Defs>
