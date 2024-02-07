@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>Husko.RC.LombaxTech</identifier>
-  <version>1.0.0.0a</version>
+  <version>1.0.0.0b</version>
   <targetVersions>
     <li>1.2.0</li>
   </targetVersions>
